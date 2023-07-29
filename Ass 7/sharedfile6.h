@@ -1,0 +1,1 @@
+void DisplayFileInfo(char*);

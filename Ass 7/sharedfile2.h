@@ -1,0 +1,1 @@
+void CheckPrime(int);
